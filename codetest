@@ -6,3 +6,9 @@ git branch -M main
 git remote add origin https://github.com/Leadsb/MDtest.git
 git push -u origin main
 
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
